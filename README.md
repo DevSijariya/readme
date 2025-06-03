@@ -9,23 +9,23 @@ This module streamlines the purchase process in Odoo, from creating RFQs to mana
 - Support for **draft, sent, confirmed, received, billed, and cancelled** PO states
 - Convert **Requests for Quotation (RFQ)** into confirmed Purchase Orders
 - View and track the **status of each order line** (e.g., received quantity vs. ordered)
-
-/home/codetrade/Pictures/Screenshots/readme/rfq.png
+  
+![Rfq](readme/rfq.png)
 
 ### Request for Quotation (RFQ)
 - Send RFQs to one or multiple vendors simultaneously
 - Compare responses side-by-side to select the best offer
 - Auto-generate POs from accepted quotations
 - Optional **RFQ approval workflow**
-
-/home/codetrade/Pictures/Screenshots/readme/confirm_rfq.png
+  
+![Rfq Confirmation](readme/confirm_rfq.png)
 
 ### Vendor Management
 - Maintain vendor profiles with contact information and payment terms
 - Define **vendor pricelists** per product or product category
 - Automatically assign vendors based on **lowest price**, **preferred supplier**, or **delivery lead time**
-
-/home/codetrade/Pictures/Screenshots/readme/vendor_profile.png
+  
+![Vendor Profile](readme/vendor_profile.png)
 
 
 ### Integration with Inventory
@@ -37,8 +37,8 @@ This module streamlines the purchase process in Odoo, from creating RFQs to mana
 - Purchase analysis by vendor, product, category, or time period
 - Track delivery delays, invoicing status, and vendor performance
 - Customizable purchase dashboards and KPIs
-
-/home/codetrade/Pictures/Screenshots/readme/purchase_analysis.png
+  
+![Purchase Analysis](readme/purchase_analysis.png)
 
 ### Accounting Integration
 - Automatically create vendor bills from received POs
@@ -46,14 +46,14 @@ This module streamlines the purchase process in Odoo, from creating RFQs to mana
 - Supports multiple taxes, accounts, and analytic tags
 - Integration with Odoo Accounting for end-to-end purchase-to-pay workflows
 
-/home/codetrade/Pictures/Screenshots/readme/vendor_bill.png
+![Vendor Bills](readme/vendor_bill.png)
 
 ### Multi-Currency & Multi-Company Support
 - Purchase from vendors in **different currencies**
 - Automatically fetch and apply **currency exchange rates**
 - Fully isolated or shared vendors, products, and transactions across multiple companies
 
-/home/codetrade/Pictures/Screenshots/readme/multi_currency.png
+![MultiCurrency](readme/multi_currency.png)
 
 ### Configuration Options
 - Define and customize **purchase approval workflows** (single or multi-step)
